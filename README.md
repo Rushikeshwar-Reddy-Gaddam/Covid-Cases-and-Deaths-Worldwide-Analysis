@@ -1,1 +1,2 @@
 # Covid-Cases-and-Deaths-Worldwide-Analysis
+This project analyzes global Covid-19 data to uncover trends in cases, deaths, and recoveries. Using Python libraries like Pandas and Matplotlib, it provides visual insights into the pandemic's impact across countries. Key findings highlight the roles of population density, healthcare infrastructure, and policy measures in managing the virus's spread. Visualizations include heatmaps, time series plots, and interactive dashboards for clear and actionable insights.
